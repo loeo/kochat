@@ -3,6 +3,7 @@
 @since 7/1/2020
 @see https://github.com/gusdnd852
 """
+import flask
 from flask import render_template
 
 from kochat.app import KochatApi
